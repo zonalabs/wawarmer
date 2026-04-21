@@ -1,0 +1,11 @@
+{
+  "targetGroupName": "Warming F",
+  "minDelay": 31,
+  "maxDelay": 65,
+  "isRunning": true,
+  "targetGroups": [
+    "Warming F",
+    "SOLO WARMING lll"
+  ],
+  "personalWarming": true
+}
